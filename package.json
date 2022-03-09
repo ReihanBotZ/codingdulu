@@ -1,7 +1,7 @@
 {
-  "name": "alphabot-md",
+  "name": "ReihanBotZ",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "Ya ReihanBotZ Di Sini Ada Yang Bisa Saya Bantu?",
   "main": "main.js",
   "directories": {
     "lib": "lib"
